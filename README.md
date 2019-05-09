@@ -1,5 +1,5 @@
 # orchards_top_view_aided_navigation_experiments
-This repository concentrates the experiments related to the research thesis titled ***Top View Aided Navigation in Orchards*** which was submitted to the Senate of the Technion - Israel Institute of Technology in May 2019.
+This repository concentrates the experiments related to the research thesis titled ***Navigation in Orchards with Aiding Top-View Imagery*** which was submitted to the Senate of the Technion - Israel Institute of Technology in May 2019.
 
 **Author:** Omer Shalev
 
@@ -19,7 +19,7 @@ catkin_init_workspace
 git clone https://github.com/CearLab/orchards_top_view_aided_navigation_core
 git clone https://github.com/CearLab/nelder_mead
 git clone https://github.com/CearLab/astar
-git clone https://github.com/CearLab/navigation -b kinetic-devel
+git clone https://github.com/CearLab/navigation -b narrow-amcl-angular-range
 
 # Clone this repository
 git clone https://github.com/CearLab/orchards_top_view_aided_navigation_experiments
