@@ -1,5 +1,6 @@
 # orchards_top_view_aided_navigation_experiments
-This repository concentrates the experiments related to the research thesis titled ***Navigation in Orchards with Aiding Top-View Imagery*** which was submitted to the Senate of the Technion - Israel Institute of Technology in May 2019.
+This repository concentrates the experiments related to the research thesis titled ***Robot Navigation in Orchards 
+Using Top-View Imagery*** which was submitted to the Senate of the Technion - Israel Institute of Technology in May 2019.
 
 **Author:** Omer Shalev
 
