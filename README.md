@@ -4,7 +4,7 @@ Using Top-View Imagery*** which was submitted to the Senate of the Technion - Is
 
 **Author:** Omer Shalev
 
-**Advisor:** Assistant Professor Amir Degani
+**Advisor:** Associate Professor Amir Degani
 
 ## Installation
 The experiments were tested on Ubuntu 16.04 with ROS Kinetic.
